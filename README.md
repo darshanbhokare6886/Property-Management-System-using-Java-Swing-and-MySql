@@ -45,3 +45,25 @@ Buyers can filter flats based on criteria such as type, furnished status, and pr
 Rent Filtering:
 Buyers can filter rental properties based on criteria such as duration, locality, type, and price using MySQL queries.
 
+## How to Use:
+
+1. Setting Up the Database:
+Ensure you have MySQL installed and running.
+Import the provided SQL file (property_management_system.sql) to set up the necessary tables and initial data.
+
+2. Running the Application:
+Clone this repository to your local machine.
+Open the project in your preferred Java IDE.
+Build and run the project.
+
+## Screen Shots of Porject:
+
+![Screenshot (619)](https://github.com/darshanbhokare6886/Property-Management-System-using-Java-Swing-and-MySql/assets/137607962/be9d6c27-f130-4dab-9507-68fc2caa26d9)
+
+![Screenshot (620)](https://github.com/darshanbhokare6886/Property-Management-System-using-Java-Swing-and-MySql/assets/137607962/e64f9336-5965-4c42-85ae-5427d46f0eaf)
+
+![Screenshot (621)](https://github.com/darshanbhokare6886/Property-Management-System-using-Java-Swing-and-MySql/assets/137607962/9f8a108f-fa9d-4aa4-b64f-e48b52778784)
+
+![Screenshot (622)](https://github.com/darshanbhokare6886/Property-Management-System-using-Java-Swing-and-MySql/assets/137607962/3596379a-6a8c-49b5-a0a0-3fb6cdb9179a)
+
+![Screenshot (623)](https://github.com/darshanbhokare6886/Property-Management-System-using-Java-Swing-and-MySql/assets/137607962/691e6153-7a07-4cba-b7d7-c5772c95aad3)

@@ -1,4 +1,5 @@
 # Property-Management-System-using-Java-Swing-and-MySql
+This project built with Java Swing and MySQL, offers sellers the ability to list properties and manage their details, while allowing buyers to browse and filter available properties. It simplifies property transactions with an intuitive GUI interface.
 
 ## Features
 
